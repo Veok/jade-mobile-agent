@@ -6,7 +6,8 @@
 1. Run command that sets CLASSPATH to the Jade libs
 
 eg.
-`export CLASSPATH=/Users/lelele/Projects/pz-lab1/jade/lib/jade.jar:/Users/lelele/Projects/pz-lab1/jade/lib/commons-codec/commons-codec-1.3.jar:/Users/lelele/Projects/pz-lab1/mobile-agent/mobile-agent/src:.:$CLASSPATH`
+
+``export CLASSPATH=/Users/lelele/Projects/pz-lab1/jade/lib/jade.jar:/Users/lelele/Projects/pz-lab1/jade/lib/commons-codec/commons-codec-1.3.jar:/Users/lelele/Projects/pz-lab1/mobile-agent/mobile-agent/src:.:$CLASSPATH``
 
 2. Compile java code in the src directory
 
